@@ -1,0 +1,6 @@
+framework module CSSClientB {
+  umbrella header "CSSClientB-umbrella.h"
+
+  export *
+  module * { export * }
+}

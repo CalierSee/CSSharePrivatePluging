@@ -1,0 +1,22 @@
+{
+  "name": "CSSClientB",
+  "version": "0.1.0",
+  "summary": "A short description of CSSClientB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/436005247@qq.com/CSSClientB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "436005247@qq.com": "436005247@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/436005247@qq.com/CSSClientB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CSSClientB/Classes/**/*"
+}
