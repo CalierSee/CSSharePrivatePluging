@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CSSClientBProject'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'B端'
   s.description      = <<-DESC
 B端app初次划分
