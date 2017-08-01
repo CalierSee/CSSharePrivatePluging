@@ -1,0 +1,6 @@
+framework module Pods_CSSClientBProject_Example {
+  umbrella header "Pods-CSSClientBProject_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
