@@ -1,0 +1,36 @@
+{
+  "name": "CSSToolsProject",
+  "version": "0.1.0",
+  "summary": "CSSToolsProject",
+  "description": "财神共享基础工具类\n******\n*分类\n*扩展控件\n*aes加解密\n*基础控件\n*****",
+  "homepage": "https://github.com/CalierSee/CSSToolsProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "景彦铭": "436005247@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/CalierSee/CSSToolsProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CSSToolsProject/Classes/**/*.{h,m}",
+  "resource_bundles": {
+    "CSSToolsLib": [
+      "CSSToolsProject/Assets/*.png"
+    ]
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

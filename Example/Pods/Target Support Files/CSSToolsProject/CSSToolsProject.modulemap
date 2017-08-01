@@ -1,0 +1,6 @@
+framework module CSSToolsProject {
+  umbrella header "CSSToolsProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

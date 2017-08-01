@@ -1,0 +1,6 @@
+framework module Pods_CSSToolsProject_Tests {
+  umbrella header "Pods-CSSToolsProject_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
